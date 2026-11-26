@@ -1,0 +1,7 @@
+customer_id,customer_name,city,customer_segment,email,phone,start_date,end_date,is_current
+101,Rahul,Bangalore,Gold,rahul@gmail.com,9876543210,01-01-2025,31-12-9999,Y
+102,Amit,Pune,Silver,amit@gmail.com,9876543211,01-01-2025,31-12-9999,Y
+103,John,Chennai,Gold,john@gmail.com,9876543212,01-01-2025,31-12-9999,Y
+104,Sara,Hyderabad,Silver,sara@gmail.com,9876543213,01-01-2025,31-12-9999,Y
+105,David,Mumbai,Platinum,david@gmail.com,9876543214,01-01-2025,31-12-9999,Y
+106,Meena,Delhi,Gold,meena@gmail.com,9876543215,01-01-2025,31-12-9999,Y

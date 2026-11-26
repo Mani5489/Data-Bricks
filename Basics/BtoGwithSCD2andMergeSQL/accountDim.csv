@@ -1,0 +1,8 @@
+account_id,customer_id,account_type,branch_city,status,start_date,end_date,is_current
+2001,101,Savings,Bangalore,Active,01-01-2025,31-12-9999,Y
+2002,102,Savings,Pune,Active,01-01-2025,31-12-9999,Y
+2003,103,Current,Chennai,Active,01-01-2025,31-12-9999,Y
+2004,104,Savings,Hyderabad,Active,01-01-2025,31-12-9999,Y
+2005,105,Current,Mumbai,Active,01-01-2025,31-12-9999,Y
+2006,106,Savings,Delhi,Active,01-01-2025,31-12-9999,Y
+2007,101,Current,Bangalore,Active,01-01-2025,31-12-9999,Y

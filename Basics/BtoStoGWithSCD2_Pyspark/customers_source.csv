@@ -1,0 +1,8 @@
+customer_id,customer_name,city,membership,start_date,end_date,is_current
+101,Rahul,Bangalore,Silver,01-01-2025,31-12-9999,Y
+102,Amit,Pune,Gold,01-01-2025,31-12-9999,Y
+103,John,Chennai,Silver,01-01-2025,31-12-9999,Y
+104,Sara,Hyderabad,Bronze,01-01-2025,31-12-9999,Y
+105,David,Mumbai,Gold,01-01-2025,31-12-9999,Y
+,,,,,,
+,,,,,,

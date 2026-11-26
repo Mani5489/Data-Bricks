@@ -1,0 +1,8 @@
+product_id,product_name,category,brand,price,active_flag
+201,Laptop,Electronics,Dell,52000,Y
+205,Printer,Electronics,HP,17000,Y
+209,TV,Electronics,Sony,78000,Y
+233,Smart Watch,Electronics,Apple,22000,Y
+234,Gaming Mouse,Accessories,Logitech,2500,Y
+235,NAS Storage,Storage,Synology,65000,Y
+250,Storage,Accessories,Sony,25000,Y

@@ -1,0 +1,5 @@
+store_id,store_name,store_city,store_region,start_date,end_date,is_current
+1,MG Road Store,Bangalore,South,01-01-2025,31-12-9999,Y
+2,Hinjewadi Store,Pune,West,01-01-2025,31-12-9999,Y
+3,T Nagar Store,Chennai,South,01-01-2025,31-12-9999,Y
+4,Banjara Store,Hyderabad,South,01-01-2025,31-12-9999,Y
