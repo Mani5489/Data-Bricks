@@ -1,0 +1,1 @@
+A collection of Databricks notebooks and practical Data Engineering exercises focused on building real-world data pipelines. Covers Apache Spark, Delta Lake, data transformations, incremental processing, ETL workflows, and production-style pipeline development.
